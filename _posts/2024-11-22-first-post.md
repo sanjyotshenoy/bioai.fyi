@@ -1,3 +1,3 @@
 # Hello World
 My name is Sanjyot Shenoy 
-$$  \begin{array}{l} \frac{d\left[ CDK1^{*}\right]}{dt} =\alpha _{3}\left(\frac{\left[ CDK1^{*}\right]^{n_{3}}}{\left[ CDK1^{*}\right]^{n_{3}} +K_{3}^{n_{3}}}\right) +\alpha _{1}[ CDK1] -\beta _{1}\left(\frac{\left[ APC^{*}\right]^{n_{1}}}{\left[ APC^{*}\right]^{n_{1}} +K_{1}^{n_{1}}}\right)\\ \frac{d\left[ APC^{*}\right]}{dt} =\alpha _{2}\left(\frac{\left[ CDK1^{*}\right]^{n_{2}}}{\left[ CDK1^{*}\right]^{n_{2}} +K_{2}^{n_{2}}}\right) -\beta _{2}\left[ APC^{*}\right] \end{array} $$
+$$  y=m*x $$
